@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-This is a page for projects I consider complete. How complete? ...Good question. Anyway, the rest of my not-so-complete work is in <b>experiments</b>.
+This page contains all of the projects I considered notable enough to put on display.
 
 <!-- pages/projects.md -->
 <div class="projects">
