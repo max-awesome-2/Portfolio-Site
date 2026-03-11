@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Max G Portfolio
+title: Max Gelinas
 first_name: Max
-middle_name: R.
+middle_name:
 last_name: Gelinas
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "icon.png" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://max-awesome-2.github.io # the base hostname & protocol for your site
 baseurl: /Portfolio-Site
@@ -91,8 +91,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: max-blog # blog_name will be displayed in your blog page
+blog_description: My blog. Currently empty. May not be empty in the future!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
