@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monkey Fight
+title: Monkey Fight (2020)
 description: The ultimate simian showdown.
 img: assets/img/monkey_fight.png
 importance: 1
@@ -8,74 +8,72 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<h2>Summary</h2>
+<p><a href="https://maxy3702.itch.io/monkey-fight">Monkey Fight</a> is a simple multiplayer Quake-esque shooter that I made using Unity and the Mirror networking package. It was my first 'published' game (I put it up on itch.io). I made it over <b>two weeks</b> around the start of the pandemic.</p> 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<h2>Features</h2>
+* A launch screen where players can input their usernames and either host a server or join another player's server by IP
+* Two gamemodes - elimination and deathmatch, both playable as teams or free-for-all
+* Four unique weapons - a shotgun, assault rifle, rocket launcher, and sniper rifle - all modelled by yours truly!
+* Fully animated characters (I made the animations, but the model is from TurboSquid)
+* Animations and sounds synced over the network
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<h2>Lessons</h2>
+1. This was my first encounter with multiplayer programming & networking. The Mirror paradigm was a real challenge wrapping my head around it, but I grew fond of it fast. I want to make more multiplayer games...
+2. It's not as hard as I thought to make a nice(-ish) looking UI. I made the UI box and banana button images myself in Photoshop - all it took was a little bit of shading to get them looking surprisingly good.
+
+<h2>Fun Facts </h2>
+* I had decided on making a multiplayer shooter game, but couldn't choose beetween theming it around monkeys or cockroaches (yeah). I had a friend choose for me. If not for a simple twist of fate you could be looking at a game called "Roach Fight" right now.
+* I have a lot more granular commentary on the creation of Monkey Fight on my Blogger blog that I wrote as I was making the game in 2020. It's very interesting. I'll probably transpose it here at some point, for the sake of historical preservation.
+* The source code for the game was on my hard drive that crashed, and for some reason I never put it in version control, so it's gone forever :(
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/monkey_fight/titlescreen_early" title="early title screen" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/monkey_fight/titlescreen" title="title screen" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The title screen early on in development, vs. the final version.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="firstpersonview_early" title="first person view early" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="firstpersonview" title="first person view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    These two first-person view shots show how the UI and lighting evolved throughout the game's development.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/monkey_fight/sniper1" title="sniper1" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/monkey_fight/sniper2" title="sniper2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    A before-and-after of a player getting a kill with the sniper rifle. 
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/monkey_fight/mapdesign" title="original map design" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/monkey_fight/courtyard" title="courtyard" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/monkey_fight/courtyard_final" title="courtyard final" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
-
-{% endraw %}
+<div class="caption">
+    The image on the left is the original design I drew up for the map. I designed the map in 'floors', with each level of verticality of the map being represented by a different color. The two images on the right show the first and final versions of the map.
+</div>
