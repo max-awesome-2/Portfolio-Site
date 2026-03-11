@@ -461,21 +461,61 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/9_project/";
+            },},{id: "projects-mech-krew-2026",
+          title: 'Mech Krew (2026)',
+          description: "A WIP game about co-operatively controlling a mech.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/bullet_hell_system/";
+            },},{id: "projects-lapidary-lodge-2025",
+          title: 'Lapidary Lodge (2025)',
+          description: "A WIP rudimentary gemstone faceting simulator.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/hamster_shotgun_death_tower/";
             },},{id: "projects-jeff-2024",
           title: 'Jeff (2024)',
           description: "A short narrative game made in Unity for a game jam.",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/jeff/";
+            },},{id: "projects-lapidary-lodge-2025",
+          title: 'Lapidary Lodge (2025)',
+          description: "A WIP rudimentary gemstone faceting simulator.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/lapidary_lodge/";
+            },},{id: "projects-making-your-mark-2026",
+          title: 'Making Your Mark (2026)',
+          description: "A WIP rudimentary gemstone faceting simulator.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/making_your_mark/";
+            },},{id: "projects-mech-krew-2026",
+          title: 'Mech Krew (2026)',
+          description: "A WIP game about co-operatively controlling a mech.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/mech_crew/";
             },},{id: "projects-monkey-fight-2020",
           title: 'Monkey Fight (2020)',
           description: "The ultimate simian showdown.",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/monkey_fight/";
+            },},{id: "projects-mech-krew-2026",
+          title: 'Mech Krew (2026)',
+          description: "A WIP game about co-operatively controlling a mech.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/penguin_puzzle_palace/";
             },},{id: "projects-window-warrior-2023-2024",
           title: 'Window Warrior (2023-2024)',
           description: "A Java game made for my Sheridan portfolio.",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/window_warrior/";
+            },},{id: "projects-jeff-2024",
+          title: 'Jeff (2024)',
+          description: "A short narrative game made in Unity for a game jam.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/zemstar_assault%20copy/";
+            },},{id: "projects-zemstar-assault-2022",
+          title: 'Zemstar Assault (2022)',
+          description: "A vampire-survivors-like game made in Unity for a game jam.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/zemstar_assault/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
