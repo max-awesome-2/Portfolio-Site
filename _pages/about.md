@@ -26,5 +26,3 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I make games! Current second year Game Design student at Sheridan College. University of Ottawa graduate (2024, majors in Computer Science and Linguistics).
-
-HELP THIS PAGE ISN'T UPDATE AND I CAN'T FIGURE OUT WHY

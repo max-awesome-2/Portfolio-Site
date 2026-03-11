@@ -19,7 +19,7 @@ related_publications: true
 * Animations and sounds synced over the network
 
 <h2>Lessons</h2>
-1. This was my first encounter with multiplayer programming & networking. The Mirror paradigm was a real challenge wrapping my head around it, but I grew fond of it fast. I want to make more multiplayer games...
+1. This was my first encounter with multiplayer programming & networking. The Mirror paradigm was a real challenge to wrap my head around, but I grew fond of it fast. I want to make more multiplayer games...
 2. It's not as hard as I thought to make a nice(-ish) looking UI. I made the UI box and banana button images myself in Photoshop - all it took was a little bit of shading to get them looking surprisingly good.
 
 <h2>Fun Facts </h2>
