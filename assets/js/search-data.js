@@ -451,17 +451,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-monkey-fight-2020",
-          title: 'Monkey Fight (2020)',
-          description: "The ultimate simian showdown.",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/10_project/";
-            },},{id: "projects-window-warrior-2023-2024",
-          title: 'Window Warrior (2023-2024)',
-          description: "A Java game made for my Sheridan portfolio.",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/11_project/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -506,6 +496,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/9_project/";
+            },},{id: "projects-monkey-fight-2020",
+          title: 'Monkey Fight (2020)',
+          description: "The ultimate simian showdown.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/monkey_fight/";
+            },},{id: "projects-window-warrior-2023-2024",
+          title: 'Window Warrior (2023-2024)',
+          description: "A Java game made for my Sheridan portfolio.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/window_warrior/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
