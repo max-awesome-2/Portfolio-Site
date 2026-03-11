@@ -395,101 +395,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/9_project/";
-            },},{id: "projects-bullet-hell-system-2026",
-          title: 'Bullet Hell System (2026)',
-          description: "A system for making bullet hell games in Unity, based on the builder pattern.",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/bullet_hell_system/";
-            },},{id: "projects-hamster-shotgun-death-tower-2025",
-          title: 'Hamster Shotgun Death Tower (2025)',
-          description: "A WIP rudimentary gemstone faceting simulator.",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/hamster_shotgun_death_tower/";
-            },},{id: "projects-jeff-2024",
+          section: "News",},{id: "projects-jeff-2024",
           title: 'Jeff (2024)',
           description: "A short narrative game made in Unity for a game jam.",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/jeff/";
-            },},{id: "projects-lapidary-lodge-2025",
-          title: 'Lapidary Lodge (2025)',
-          description: "A WIP rudimentary gemstone faceting simulator.",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/lapidary_lodge/";
-            },},{id: "projects-making-your-mark-2026",
-          title: 'Making Your Mark (2026)',
-          description: "A WIP rudimentary gemstone faceting simulator.",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/making_your_mark/";
-            },},{id: "projects-mech-krew-2026",
-          title: 'Mech Krew (2026)',
-          description: "A WIP game about co-operatively controlling a mech.",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/mech_crew/";
             },},{id: "projects-monkey-fight-2020",
           title: 'Monkey Fight (2020)',
           description: "The ultimate simian showdown.",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/monkey_fight/";
-            },},{id: "projects-penguin-puzzle-palace-2025",
-          title: 'Penguin Puzzle Palace (2025)',
-          description: "A WIP game about co-operatively controlling a mech.",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/penguin_puzzle_palace/";
             },},{id: "projects-window-warrior-2023-2024",
           title: 'Window Warrior (2023-2024)',
           description: "A Java game made for my Sheridan portfolio.",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/window_warrior/";
-            },},{id: "projects-zemstar-assault-2022",
-          title: 'Zemstar Assault (2022)',
-          description: "A vampire-survivors-like game made in Unity for a game jam.",
-          section: "Projects",handler: () => {
-              window.location.href = "/Portfolio-Site/projects/zemstar_assault/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
