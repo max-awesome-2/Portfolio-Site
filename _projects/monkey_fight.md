@@ -4,14 +4,14 @@ title: Monkey Fight (2020)
 description: The ultimate simian showdown.
 img: assets/img/monkey_fight.png
 importance: 1
-category: work
+category: other
 related_publications: true
 ---
 
 <h2>Summary</h2>
 <p><a href="https://maxy3702.itch.io/monkey-fight">Monkey Fight</a> is a simple multiplayer Quake-esque shooter that I made using Unity and the Mirror networking package. It was my first 'published' game (I put it up on itch.io). I made it over <b>two weeks</b> around the start of the pandemic.</p> 
 
-<h2>Features</h2>
+<h2>Notable Features</h2>
 * A launch screen where players can input their usernames and either host a server or join another player's server by IP
 * Two gamemodes - elimination and deathmatch, both playable as teams or free-for-all
 * Four unique weapons - a shotgun, assault rifle, rocket launcher, and sniper rifle - all modelled by yours truly!
