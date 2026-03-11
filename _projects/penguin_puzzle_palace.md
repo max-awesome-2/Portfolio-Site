@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mech Krew (2026)
+title: Penguin Puzzle Palace (2025)
 description: A WIP game about co-operatively controlling a mech.
 img: assets/window_warrior/img/window_warrior.png
 importance: 1
