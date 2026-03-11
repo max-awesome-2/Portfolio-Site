@@ -461,13 +461,13 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/9_project/";
-            },},{id: "projects-mech-krew-2026",
-          title: 'Mech Krew (2026)',
-          description: "A WIP game about co-operatively controlling a mech.",
+            },},{id: "projects-bullet-hell-system-2026",
+          title: 'Bullet Hell System (2026)',
+          description: "A system for making bullet hell games in Unity, based on the builder pattern.",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/bullet_hell_system/";
-            },},{id: "projects-lapidary-lodge-2025",
-          title: 'Lapidary Lodge (2025)',
+            },},{id: "projects-hamster-shotgun-death-tower-2025",
+          title: 'Hamster Shotgun Death Tower (2025)',
           description: "A WIP rudimentary gemstone faceting simulator.",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/hamster_shotgun_death_tower/";
