@@ -22,7 +22,6 @@ I'm super proud of it, and to date I think it's my favourite project personal pr
 * A wave spawning system
 * A series of 10 artifacts that each modify gameplay in a unique way
 
-
 <h2>Lessons (Beyond the ones mentioned in the video)</h2>
 1. It's incredibly easy to devolve into spaghetti code when you're writing a system from scratch. I wasn't putting enough care into the structure of the windows system, for example, and I ended up having to go back and restructure it completely because it was just too buggy.
 2. Turns out I can draw! Granted, the art I did for this game wasn't fantastic, but for someone who had never really done proper 2D art before, I was shocked at how good I was able to make it look.
