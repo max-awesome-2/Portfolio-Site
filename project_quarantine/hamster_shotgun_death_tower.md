@@ -5,7 +5,7 @@ description: A WIP rudimentary gemstone faceting simulator.
 img: assets/window_warrior/img/window_warrior.png
 importance: 1
 category: other
-related_publications: true
+related_publications: false
 ---
 
 <h2>Summary</h2>

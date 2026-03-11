@@ -5,7 +5,7 @@ description: A Java game made for my Sheridan portfolio.
 img: assets/window_warrior/img/window_warrior.png
 importance: 1
 category: sheridan
-related_publications: true
+related_publications: false
 ---
 
 <h2>Summary</h2>

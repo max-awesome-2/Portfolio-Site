@@ -5,11 +5,11 @@ description: A WIP game about co-operatively controlling a mech.
 img: assets/window_warrior/img/window_warrior.png
 importance: 1
 category: other
-related_publications: true
+related_publications: false
 ---
 
 <h2>Summary</h2>
-<p><b>Mech Krew</b> is a project I'm working on.</p>
+<p><b>Penguin Puzzle Palace</b> is a project I've currently tabled.</p>
 
 <h2>Notable Features</h2>
 * The aesthetic. For some reason, I decided to theme the whole game around this schoolwork stationary, paper-y, crayon-y aesthetic. Although it doesn't make that much sence with the narrative, I really think I executed it beautifully.

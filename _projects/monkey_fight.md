@@ -4,8 +4,8 @@ title: Monkey Fight (2020)
 description: The ultimate simian showdown.
 img: assets/img/monkey_fight.png
 importance: 1
-category: other
-related_publications: true
+category: just-for-fun
+related_publications: false
 ---
 
 <h2>Summary</h2>

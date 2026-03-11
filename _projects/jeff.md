@@ -5,7 +5,7 @@ description: A short narrative game made in Unity for a game jam.
 img: assets/window_warrior/img/window_warrior.png
 importance: 1
 category: game-jams
-related_publications: true
+related_publications: false
 ---
 
 <h2>Summary</h2>

@@ -5,7 +5,7 @@ permalink: /projects/
 description: My cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [game-jams, sheridan, just-for-fun]
 horizontal: false
 ---
 

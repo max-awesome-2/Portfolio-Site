@@ -5,7 +5,7 @@ description: A system for making bullet hell games in Unity, based on the builde
 img: assets/window_warrior/img/window_warrior.png
 importance: 1
 category: other
-related_publications: true
+related_publications: false
 ---
 
 <h2>Summary</h2>
