@@ -41,10 +41,10 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="firstpersonview_early" title="first person view early" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="monkey_fight/firstpersonview_early" title="first person view early" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="firstpersonview" title="first person view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="monkey_fight/firstpersonview" title="first person view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
