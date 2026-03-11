@@ -2,12 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My cool projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+This is a page for projects I consider complete. How complete? ...Good question. Anyway, the rest of my not-so-complete work is in <b>experiments</b>.
 
 <!-- pages/projects.md -->
 <div class="projects">
