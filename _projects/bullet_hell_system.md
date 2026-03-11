@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mech Krew (2026)
-description: A WIP game about co-operatively controlling a mech.
+title: Bullet Hell System (2026)
+description: A system for making bullet hell games in Unity, based on the builder pattern.
 img: assets/window_warrior/img/window_warrior.png
 importance: 1
 category: other

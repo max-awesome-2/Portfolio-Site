@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lapidary Lodge (2025)
+title: Hamster Shotgun Death Tower (2025)
 description: A WIP rudimentary gemstone faceting simulator.
 img: assets/window_warrior/img/window_warrior.png
 importance: 1
