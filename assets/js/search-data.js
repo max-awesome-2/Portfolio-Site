@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "My cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Portfolio-Site/projects/";
@@ -451,7 +451,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "projects-monkey-fight-2020",
+          title: 'Monkey Fight (2020)',
+          description: "The ultimate simian showdown.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/10_project/";
+            },},{id: "projects-window-warrior-2023-2024",
+          title: 'Window Warrior (2023-2024)',
+          description: "A Java game made for my Sheridan portfolio.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/11_project/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
