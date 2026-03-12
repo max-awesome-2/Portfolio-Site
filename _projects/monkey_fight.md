@@ -62,8 +62,6 @@ related_publications: false
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/monkey_fight/mapdesign.png" title="original map design" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/monkey_fight/courtyard.png" title="courtyard" class="img-fluid rounded z-depth-1" %}
     </div>
