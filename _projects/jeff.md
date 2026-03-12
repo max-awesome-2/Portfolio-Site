@@ -29,4 +29,19 @@ related_publications: false
 <h2>Lessons</h2>
 * I learned a lot about Unity's Shader Graph. I used it to make a wobble shader for the textures that I drew (the characters & furniture) which adds a lot of character to it, and the scene transition animation pictured in the first GIF above.
 
-
+<div class="row">
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/jeff/sticky_note.gif" title="sticky note" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/jeff/hi_ken.gif" title="hi ken" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/jeff/mouse_click_gif.gif" title="mouse click" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    These gifs show parts of the UI. I'm especially proud of the dialogue box's opening animation, which was cobbled together from a bunch of Adobe Stock images.
+</div>
