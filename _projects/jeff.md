@@ -11,7 +11,7 @@ related_publications: false
 <h2>Summary</h2>
 <p><b><a href="https://maxy3702.itch.io/jeff">Jeff (check it out on itch.io) </a></b> is a short narrative game I made over <b>three days</b> for a game jam the uOttawa Game Dev Club was hosting. The theme was <b>'it started with a note'</b>. The game revolves around a guy named Jeff who's planning to dress up as famous creepypasta* character Jeff the Killer for his friends' halloween party, when he receives a mysterious note....</p>
 
-<p>\*<i>If you're not familiar, 'creepypasta' is a term referring to a genre of short, generally poorly written internet-published horror stories. The genre flourished throughout the late 2000s and early 2010s, and produced a host of lovable characters (such as Jeff the Killer), many of whom are represented as costumes in this game.</i></p>
+<p>`*`<i>If you're not familiar, 'creepypasta' is a term referring to a genre of short, generally poorly written internet-published horror stories. The genre flourished throughout the late 2000s and early 2010s, and produced a host of lovable characters (such as Jeff the Killer), many of whom are represented as costumes in this game.</i></p>
 
 <div class="row">
      <div class="col-sm mt-3 mt-md-0">
