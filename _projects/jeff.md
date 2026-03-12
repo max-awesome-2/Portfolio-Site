@@ -14,6 +14,7 @@ related_publications: false
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/jeff/jeff_title_screen.gif" title="title screen" class="img-fluid rounded z-depth-1" %}
+        <img src="assets/jeff/jeff_title_screen.gif" alt="title screen" width=400" height="300">
     </div>
 </div>
 <div class="caption">

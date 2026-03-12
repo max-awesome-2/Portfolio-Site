@@ -2,7 +2,7 @@
 layout: page
 title: Window Warrior (2023-2024)
 description: A Java game made for my Sheridan portfolio.
-img: assets/window_warrior/img/window_warrior.png
+img: assets/jeff/jeff_header_image.png
 importance: 1
 category: sheridan
 related_publications: false
@@ -18,7 +18,7 @@ related_publications: false
 I'm super proud of it, and to date I think it's my favourite project personal project I've worked on.
 
 <h2>Notable Features</h2>
-* A from-scratch multi-window-management system that handles each of the windows throughout their lifetimes. It's rather intricate and capable of a lot of things. I kept thinking of things to add, and thinking to myself 'there's no way it'll let me do this.' And it DID let me do it!
+* A from-scratch multi-window-management system that handles each of the windows throughout their lifetimes. It's rather intricate and capable of a lot of things. I kept thinking of possibilites - e.g. making windows shrink over time or overriding the window's close button behaviour - and thinking to myself 'there's no way it'll let me do this.' And it DID let me do it!
 * A wave spawning system
 * A series of 10 artifacts that each modify gameplay in a unique way
 
