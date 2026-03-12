@@ -9,7 +9,7 @@ display_categories: [game-jams, sheridan, just-for-fun]
 horizontal: false
 ---
 
-This page contains all of the projects I considered notable enough to put on display.
+This page contains all of the projects I considered notable enough to put on display. <b>More to be added soon!</b>
 
 <!-- pages/projects.md -->
 <div class="projects">
