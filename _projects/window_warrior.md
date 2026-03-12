@@ -2,7 +2,7 @@
 layout: page
 title: Window Warrior (2023-2024)
 description: A Java game made for my Sheridan portfolio.
-img: assets/jeff/jeff_header_image.png
+img: assets/window_warrior/img/window_warrior.png
 importance: 1
 category: sheridan
 related_publications: false
