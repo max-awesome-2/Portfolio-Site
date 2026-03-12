@@ -9,11 +9,13 @@ related_publications: false
 ---
 
 <h2>Summary</h2>
-<p><b>Window Warrior</b> is a clicker survival game prototype I made using Java during Christmas Break of 2023. It took me about <b>one month</b> to complete from start to finish. I made it specifically to be my submission piece for my Sheridan Game Design application. Here's the video I made on it:
+<p><b>Window Warrior</b> is a clicker survival game prototype I made using Java during Christmas Break of 2023. It took me about <b>one month</b> to complete from start to finish. I made it specifically to be my submission piece for my Sheridan Game Design application. Here's the video I made on it:</p>
 
+<p>
 <video width="640" height="480" controls>
     <source src="vids/portfolio_video.mp4" type="video/mp4">
 </video>
+</p>
 
 <p>I'm super proud of it, and to date I think it's my favourite project personal project I've worked on.</p>
 
