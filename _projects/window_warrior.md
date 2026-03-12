@@ -18,7 +18,7 @@ related_publications: false
 I'm super proud of it, and to date I think it's my favourite project personal project I've worked on.
 
 <h2>Notable Features</h2>
-* A from-scratch multi-window-management system that handles each of the windows throughout their lifetimes. It's rather intricate and capable of a lot of things. I kept thinking of things to add, and thinking to myself 'there's now way it'll let me do this.' And it DID let me do it!
+* A from-scratch multi-window-management system that handles each of the windows throughout their lifetimes. It's rather intricate and capable of a lot of things. I kept thinking of things to add, and thinking to myself 'there's no way it'll let me do this.' And it DID let me do it!
 * A wave spawning system
 * A series of 10 artifacts that each modify gameplay in a unique way
 

@@ -73,7 +73,20 @@ related_publications: false
     The image on the left is the original design I drew up for the map. I designed the map in 'floors', with each level of verticality of the map being represented by a different color. The two images on the right show the first and final versions of the map.
 </div>
 
+<div class="row">
+    <video width="640" height="480" controls>
+    <source src="vids/portfolio_video.mp4" type="video/mp4">
+</video>
+</div>
+<div class="caption">
+    This is some early gameplay footage.
+</div>
+
+
+
+
 <h2>Fun Facts </h2>
 * I had decided on making a multiplayer shooter game, but couldn't choose beetween theming it around monkeys or cockroaches (yeah). I had a friend choose for me. If not for a simple twist of fate you could be looking at a game called "Roach Fight" right now.
 * I have a lot more granular commentary on the creation of Monkey Fight on my Blogger blog that I wrote as I was making the game in 2020. It's very interesting. I'll probably transpose it here at some point, for the sake of historical preservation.
 * The source code for the game was on my hard drive that crashed, and for some reason I never put it in version control, so it's gone forever :(
+* I'd been searching for the early gameplay footage for a while - I knew it was out there somewhere, and I finally found it linked in one of my old blog posts. It was on a youtube channel called 'Swedish Goku'. I do not remember making this account.
