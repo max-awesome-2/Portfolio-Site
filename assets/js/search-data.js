@@ -400,6 +400,11 @@ ninja.data = [{
           description: "A short narrative game made in Unity for a game jam.",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio-Site/projects/jeff/";
+            },},{id: "projects-jeff-2024",
+          title: 'Jeff (2024)',
+          description: "A short narrative game made in Unity for a game jam.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Portfolio-Site/projects/jeff2/";
             },},{id: "projects-monkey-fight-2020",
           title: 'Monkey Fight (2020)',
           description: "The ultimate simian showdown.",
