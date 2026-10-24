@@ -8,11 +8,12 @@ category: game-jams
 related_publications: false
 ---
 
+#Project A
 <div class="row">
-     <div style="width: 80%">
+     <div style="width: 50%">
         {% include figure.liquid loading="eager" path="assets/jeff/jeff_title_screen.gif" title="title screen" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div style="width: 10%">
+    <div style="width: 20%">
         <div class="row">
             {% include figure.liquid loading="eager" path="assets/jeff/characters.gif" title="characters" class="img-fluid rounded z-depth-1" %}
         </div>
@@ -20,8 +21,19 @@ related_publications: false
             {% include figure.liquid loading="eager" path="assets/jeff/characters.gif" title="characters" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-     <div style="width: 10%">
-        Blar bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh 
+     <div style="width: 30%" markdown="1">
+        ##Project Name:
+        The
+
+        ##Tools
+        * Tool 1
+        * Tool 2
+
+        ##Description
+        Short Description
+
+        ##Take Aways
+        * uhhhhhhhhh
     </div>
 </div>
 
