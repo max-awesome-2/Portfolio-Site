@@ -8,7 +8,7 @@ category: game-jams
 related_publications: false
 ---
 
-#Project A
+# Project A
 <div class="row">
      <div style="width: 50%">
         {% include figure.liquid loading="eager" path="assets/jeff/jeff_title_screen.gif" title="title screen" class="img-fluid rounded z-depth-1" %}
@@ -22,17 +22,17 @@ related_publications: false
         </div>
     </div>
      <div style="width: 30%">
-    ##Project Name:
+    ## Project Name:
     The
 
-    ##Tools
+    ## Tools
     * Tool 1
     * Tool 2
 
-    ##Description
+    ## Description
     Short Description
 
-    ##Take Aways
+    ## Take Aways
     * uhhhhhhhhh
     </div>
 </div>
