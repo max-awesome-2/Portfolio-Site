@@ -21,19 +21,19 @@ related_publications: false
             {% include figure.liquid loading="eager" path="assets/jeff/characters.gif" title="characters" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-     <div style="width: 30%" markdown="1">
-        ##Project Name:
-        The
+     <div style="width: 30%">
+    ##Project Name:
+    The
 
-        ##Tools
-        * Tool 1
-        * Tool 2
+    ##Tools
+    * Tool 1
+    * Tool 2
 
-        ##Description
-        Short Description
+    ##Description
+    Short Description
 
-        ##Take Aways
-        * uhhhhhhhhh
+    ##Take Aways
+    * uhhhhhhhhh
     </div>
 </div>
 
