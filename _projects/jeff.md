@@ -21,7 +21,7 @@ related_publications: false
             {% include figure.liquid loading="eager" path="assets/jeff/characters.gif" title="characters" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-     <div style="width: 30%">
+     <div style="width: 30%" markdown="1">
     ## Project Name:
     The
 
