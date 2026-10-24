@@ -8,12 +8,11 @@ category: game-jams
 related_publications: false
 ---
 
-
 <div class="row">
-     <div class="col-sm mt-3 mt-md-0" style="width: 80%">
+     <div style="width: 80%">
         {% include figure.liquid loading="eager" path="assets/jeff/jeff_title_screen.gif" title="title screen" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div style="width: 10%">
         <div class="row">
             {% include figure.liquid loading="eager" path="assets/jeff/characters.gif" title="characters" class="img-fluid rounded z-depth-1" %}
         </div>
@@ -21,10 +20,11 @@ related_publications: false
             {% include figure.liquid loading="eager" path="assets/jeff/characters.gif" title="characters" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-     <div class="col-sm mt-3 mt-md-0">
+     <div style="width: 10%">
         Blar bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh bar blar bah blarh 
     </div>
 </div>
+
 
 
 <h2>Summary</h2>
